@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brio Drives</string>
+    <string name="search_ride">Search a Ride</string>
+    <string name="user_id_empty">Provide the user id</string>
+    <string name="origin_empty">Invalid origin</string>
+    <string name="destination_empty">Invalid destination</string>
+</resources>
